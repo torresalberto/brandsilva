@@ -1,0 +1,13 @@
+node_modules/
+.ruff_cache/
+test-results/
+scripts/
+docs/
+*.md
+package.json
+package-lock.json
+css/
+js/
+index.html
+piel/
+images/
